@@ -2,6 +2,8 @@
 var name="aarnaa"
 // declaration and initialisation 
 // != megiation
+// for repeating any functions we write it in function draw and in  set up() for once usage. 
+
 
 JavaScript Review
 Numbers and Strings
